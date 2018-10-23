@@ -11,21 +11,18 @@ un travail réalisé par :
 *Travail de groupe exécuté le lundi 22 octobre 2018 dans le cadre de la formation BeCode pour apprendre à collaborer en groupe avec Github.*
 
 ## Table des matières
-  - Introduction
-  - Présentation rapide de Markdown
-  - Son évolution
-  - Syntaxe
-    - Retours à la ligne
-    - Titres
-    - Emphases
-    - Listes
-    - Liens
-    - Images
-    - Extraits de code
-    - Tableau
-    - Bloc de citation
-    - Mettre du code HTML
-    - Lignes horizontales
-
-
-*Ce travail est toujours en cours d'évolution et attend vos contributions !!! :)*
+1. [Introduction](../blob/master/README.md)
+2. [Présentation rapide de Markdown](../blob/master/intro.md#presentation-rapide-de-markdown)
+3. [Son évolution](../blob/master/présentation.md#son-evolution)
+4. [Syntaxe](../blob/master/syntaxe_markdown.md#syntaxe)
+    - [Retours à la ligne](../blob/master/syntaxe_markdown.md#retours-a-la-ligne)
+    - [Titres](../blob/master/syntaxe_markdown.md#titres)
+    - [Emphases](../blob/master/syntaxe_markdown.md#emphases)
+    - [Listes](../blob/master/syntaxe_markdown.md#listes)
+    - [Liens](../blob/master/syntaxe_markdown.md#liens)
+    - [Images](../blob/master/syntaxe_markdown.md#images)
+    - [Extraits de code](../blob/master/syntaxe_markdown.md#extraits-de-code)
+    - [Tableau](../blob/master/syntaxe_markdown.md#tableau)
+    - [Bloc de citation](../blob/master/syntaxe_markdown.md#bloc-de-citation)
+    - [Mettre du code HTML](../blob/master/syntaxe_markdown.md#mettre-du-code-html)
+    - [Lignes horizontales](../blob/master/syntaxe_markdown.md#lignes-horizontales)

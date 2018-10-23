@@ -1,7 +1,24 @@
+
 # Le Markdown
 
 Markdown est un langage de balisage léger créé en 2004 par [John Gruber](https://fr.wikipedia.org/wiki/John_Gruber) avec [Aaron Swartz](https://fr.wikipedia.org/wiki/Aaron_Swartz). Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
 
+## Table des matières
+1. [Introduction](../blob/master/README.md)
+2. [Présentation rapide de Markdown](../blob/master/intro.md#presentation-rapide-de-markdown)
+3. [Son évolution](#son-evolution)
+4. [Syntaxe](../blob/master/syntaxe_markdown.md#syntaxe)
+    - [Retours à la ligne](../blob/master/syntaxe_markdown.md#retours-a-la-ligne)
+    - [Titres](../blob/master/syntaxe_markdown.md#titres)
+    - [Emphases](../blob/master/syntaxe_markdown.md#emphases)
+    - [Listes](../blob/master/syntaxe_markdown.md#listes)
+    - [Liens](../blob/master/syntaxe_markdown.md#liens)
+    - [Images](../blob/master/syntaxe_markdown.md#images)
+    - [Extraits de code](../blob/master/syntaxe_markdown.md#extraits-de-code)
+    - [Tableau](../blob/master/syntaxe_markdown.md#tableau)
+    - [Bloc de citation](../blob/master/syntaxe_markdown.md#bloc-de-citation)
+    - [Mettre du code HTML](../blob/master/syntaxe_markdown.md#mettre-du-code-html)
+    - [Lignes horizontales](../blob/master/syntaxe_markdown.md#lignes-horizontales)
 
 ## Son évolution
 
