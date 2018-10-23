@@ -4,9 +4,9 @@ Le Markdown a une syntaxe spécifique pour créer ses différents éléments. To
 
 ## Table des matières
 
-1. [Introduction](../blob/master/README.md)
-2. [Présentation rapide de Markdown](../blob/master/intro.md#présentation-rapide-de-markdown)
-3. [Son évolution](../blob/master/présentation.md#son-évolution)
+1. [Introduction](../master/README.md)
+2. [Présentation rapide de Markdown](../master/intro.md#présentation-rapide-de-markdown)
+3. [Son évolution](../master/présentation.md#son-évolution)
 4. [Syntaxe](#syntaxe)
     - [Retours à la ligne](#retours-à-la-ligne)
     - [Titres](#titres)
@@ -142,7 +142,7 @@ Toute URL complète ou placée entre crochets sera également traduite en lien.
 [Ceci est un lien basique](http://github.com)  
 [Ceci est un lien avec un titre](http://github.com "Github")  
 [Ceci est un lien avec référence][texte de reference]    
-[Ceci est un lien relatif](../blob/master/README.md)  
+[Ceci est un lien relatif](../master/README.md)  
 http://github.com  
 <http://github.com>  
 
@@ -152,7 +152,7 @@ http://github.com
 [Ceci est un lien basique](http://github.com)  
 [Ceci est un lien avec un titre](http://github.com "Github")  
 [Ceci est un lien avec référence][texte de reference]    
-[Ceci est un lien relatif](../blob/master/README.md)  
+[Ceci est un lien relatif](../master/README.md)  
 http://github.com  
 <http://github.com>  
 

@@ -4,21 +4,21 @@
 Markdown est un langage de balisage léger créé en 2004 par [John Gruber](https://fr.wikipedia.org/wiki/John_Gruber) avec [Aaron Swartz](https://fr.wikipedia.org/wiki/Aaron_Swartz). Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
 
 ## Table des matières
-1. [Introduction](../blob/master/README.md)
-2. [Présentation rapide de Markdown](../blob/master/intro.md#présentation-rapide-de-markdown)
+1. [Introduction](../master/README.md)
+2. [Présentation rapide de Markdown](../master/intro.md#présentation-rapide-de-markdown)
 3. [Son évolution](#son-évolution)
-4. [Syntaxe](../blob/master/syntaxe_markdown.md#syntaxe)
-    - [Retours à la ligne](../blob/master/syntaxe_markdown.md#retours-à-la-ligne)
-    - [Titres](../blob/master/syntaxe_markdown.md#titres)
-    - [Emphases](../blob/master/syntaxe_markdown.md#emphases)
-    - [Listes](../blob/master/syntaxe_markdown.md#listes)
-    - [Liens](../blob/master/syntaxe_markdown.md#liens)
-    - [Images](../blob/master/syntaxe_markdown.md#images)
-    - [Extraits de code](../blob/master/syntaxe_markdown.md#extraits-de-code)
-    - [Tableau](../blob/master/syntaxe_markdown.md#tableau)
-    - [Bloc de citation](../blob/master/syntaxe_markdown.md#bloc-de-citation)
-    - [Mettre du code HTML](../blob/master/syntaxe_markdown.md#mettre-du-code-html)
-    - [Lignes horizontales](../blob/master/syntaxe_markdown.md#lignes-horizontales)
+4. [Syntaxe](../master/syntaxe_markdown.md#syntaxe)
+    - [Retours à la ligne](../master/syntaxe_markdown.md#retours-à-la-ligne)
+    - [Titres](../master/syntaxe_markdown.md#titres)
+    - [Emphases](../master/syntaxe_markdown.md#emphases)
+    - [Listes](../master/syntaxe_markdown.md#listes)
+    - [Liens](../master/syntaxe_markdown.md#liens)
+    - [Images](../master/syntaxe_markdown.md#images)
+    - [Extraits de code](../master/syntaxe_markdown.md#extraits-de-code)
+    - [Tableau](../master/syntaxe_markdown.md#tableau)
+    - [Bloc de citation](../master/syntaxe_markdown.md#bloc-de-citation)
+    - [Mettre du code HTML](../master/syntaxe_markdown.md#mettre-du-code-html)
+    - [Lignes horizontales](../master/syntaxe_markdown.md#lignes-horizontales)
 
 ## Son évolution
 
