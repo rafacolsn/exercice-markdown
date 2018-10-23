@@ -171,9 +171,9 @@ Comme pour les liens, vous pouvez ajouter des titres à vos images (visibles au 
 
 ```markdown
 ![logo de BeCode](https://www.becode.org/register/assets/images/logo_Becode.png)  
-![logo de BeCode][reference]
+![code rage][reference]
 
-[reference]: https://www.becode.org/register/assets/images/logo_Becode.png
+[reference]: https://media2.giphy.com/media/dlMIwDQAxXn1K/giphy.gif?cid=3640f6095bced0a5567a717636fef480
 ```
 
 ## Extraits de code
