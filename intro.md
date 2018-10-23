@@ -14,7 +14,7 @@ Markdown est utilsé sur certain site internet comme github, stack overflow, ope
 ![github](https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif "github")
 
 ## Table des matières
-1. [Introduction](../blob/master/README.md)
+1. [Introduction](../master/README.md)
 2. [Présentation rapide de Markdown](#présentation-rapide-de-markdown)
 3. [Son évolution](../blob/master/présentation.md#son-évolution)
 4. [Syntaxe](../blob/master/syntaxe_markdown.md#syntaxe)
