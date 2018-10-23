@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> df0c822615b48938035b8dcd7c3ad183938defb3
 # Présentation du Markdown
 
 un travail réalisé par :
@@ -21,10 +18,3 @@ Ce travail contient :
 
 
 *Ce travail est toujours en cours d'évolution et attend vos contributions !!! :)*
-<<<<<<< HEAD
-=======
-# exercice-markdown
-présentation du Markdown
-
-=======
->>>>>>> df0c822615b48938035b8dcd7c3ad183938defb3
