@@ -5,10 +5,10 @@ Le Markdown a une syntaxe spécifique pour créer ses différents éléments. To
 ## Table des matières
 
 1. [Introduction](../blob/master/README.md)
-2. [Présentation rapide de Markdown](../blob/master/intro.md#presentation-rapide-de-markdown)
-3. [Son évolution](../blob/master/présentation.md#son-evolution)
+2. [Présentation rapide de Markdown](../blob/master/intro.md#présentation-rapide-de-markdown)
+3. [Son évolution](../blob/master/présentation.md#son-évolution)
 4. [Syntaxe](#syntaxe)
-    - [Retours à la ligne](#retours-a-la-ligne)
+    - [Retours à la ligne](#retours-à-la-ligne)
     - [Titres](#titres)
     - [Emphases](#emphases)
     - [Listes](#listes)

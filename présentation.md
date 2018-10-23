@@ -5,10 +5,10 @@ Markdown est un langage de balisage léger créé en 2004 par [John Gruber](http
 
 ## Table des matières
 1. [Introduction](../blob/master/README.md)
-2. [Présentation rapide de Markdown](../blob/master/intro.md#presentation-rapide-de-markdown)
-3. [Son évolution](#son-evolution)
+2. [Présentation rapide de Markdown](../blob/master/intro.md#présentation-rapide-de-markdown)
+3. [Son évolution](#son-évolution)
 4. [Syntaxe](../blob/master/syntaxe_markdown.md#syntaxe)
-    - [Retours à la ligne](../blob/master/syntaxe_markdown.md#retours-a-la-ligne)
+    - [Retours à la ligne](../blob/master/syntaxe_markdown.md#retours-à-la-ligne)
     - [Titres](../blob/master/syntaxe_markdown.md#titres)
     - [Emphases](../blob/master/syntaxe_markdown.md#emphases)
     - [Listes](../blob/master/syntaxe_markdown.md#listes)
